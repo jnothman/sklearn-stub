@@ -31,7 +31,7 @@ An example plot of StubEstimator
     plt.plot(estimator.predict(X))
     plt.show()
 **Total running time of the script:**
-(0 minutes 0.300 seconds)
+(0 minutes 0.107 seconds)
 
 
 
